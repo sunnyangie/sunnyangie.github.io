@@ -110,7 +110,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "uniqCompNum": 27,
     "versionPublish": "5.6.0",
     "screenshot": "screenshot.png",
