@@ -1545,6 +1545,24 @@ a {
 .cid-tRAGlZ6laV .mbr-text {
   color: #493b27;
 }
+.cid-tSryLfVCSP {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tSryLfVCSP .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tSryLfVCSP img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tSryLfVCSP .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-tRATjKhYaC {
   padding-top: 6rem;
   padding-bottom: 6rem;
