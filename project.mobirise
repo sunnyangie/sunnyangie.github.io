@@ -16,7 +16,7 @@
         "display1Size": "5.2",
         "display2Font": "Cormorant Garamond",
         "display2Size": "3.2",
-        "display5Font": "Meie Script",
+        "display5Font": "Dancing Script",
         "display5Size": "2.2",
         "display7Font": "Cormorant Garamond",
         "display7Size": "1",
@@ -99,6 +99,16 @@
         "css": "'Meie Script', handwriting",
         "name": "Meie Script",
         "url": "https://fonts.googleapis.com/css?family=Meie+Script:400"
+      },
+      {
+        "css": "'Lobster', display",
+        "name": "Lobster",
+        "url": "https://fonts.googleapis.com/css?family=Lobster:400"
+      },
+      {
+        "css": "'Pacifico', handwriting",
+        "name": "Pacifico",
+        "url": "https://fonts.googleapis.com/css?family=Pacifico:400"
       }
     ],
     "imageResize": true,
